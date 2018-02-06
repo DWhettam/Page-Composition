@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pageinput>
+  <format>LineMoment</format>
+  <wrap>20</wrap>
+  <wrapsoft>10</wrapsoft>
+  <columnmoment>8</columnmoment>
+  <words>abc abc asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf dshfg asdfa asdf asdf asdf asdf asdf asdf asdf asdf</words>
+</pageinput>

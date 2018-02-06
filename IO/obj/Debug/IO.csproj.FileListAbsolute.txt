@@ -1,0 +1,14 @@
+G:\08230\PageComposition\IO\bin\Debug\IO.dll
+G:\08230\PageComposition\IO\bin\Debug\IO.pdb
+G:\08230\PageComposition\IO\bin\Debug\BusinessLogic.dll
+G:\08230\PageComposition\IO\bin\Debug\BusinessLogic.pdb
+G:\08230\PageComposition\IO\obj\Debug\IO.csprojResolveAssemblyReference.cache
+G:\08230\PageComposition\IO\obj\Debug\IO.dll
+G:\08230\PageComposition\IO\obj\Debug\IO.pdb
+\\data.adir.hull.ac.uk\home5\510\510284\08230\PageComposition\IO\bin\Debug\IO.dll
+\\data.adir.hull.ac.uk\home5\510\510284\08230\PageComposition\IO\bin\Debug\IO.pdb
+\\data.adir.hull.ac.uk\home5\510\510284\08230\PageComposition\IO\bin\Debug\BusinessLogic.dll
+\\data.adir.hull.ac.uk\home5\510\510284\08230\PageComposition\IO\bin\Debug\BusinessLogic.pdb
+\\data.adir.hull.ac.uk\home5\510\510284\08230\PageComposition\IO\obj\Debug\IO.csprojResolveAssemblyReference.cache
+\\data.adir.hull.ac.uk\home5\510\510284\08230\PageComposition\IO\obj\Debug\IO.dll
+\\data.adir.hull.ac.uk\home5\510\510284\08230\PageComposition\IO\obj\Debug\IO.pdb

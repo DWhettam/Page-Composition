@@ -1,0 +1,7 @@
+G:\08230\PageComposition\IO\bin\Release\IO.dll
+G:\08230\PageComposition\IO\bin\Release\IO.pdb
+G:\08230\PageComposition\IO\bin\Release\BusinessLogic.dll
+G:\08230\PageComposition\IO\bin\Release\BusinessLogic.pdb
+G:\08230\PageComposition\IO\obj\Release\IO.csprojResolveAssemblyReference.cache
+G:\08230\PageComposition\IO\obj\Release\IO.dll
+G:\08230\PageComposition\IO\obj\Release\IO.pdb
